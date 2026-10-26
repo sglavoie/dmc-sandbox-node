@@ -1,4 +1,4 @@
-# Policy for deps-merger (phase 2 check)
-mode: report
+# Policy for deps-merger (phase 4 check)
+mode: merge
 max_update_type: minor
 dependabot_commands: false
