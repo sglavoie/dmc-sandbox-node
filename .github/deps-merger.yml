@@ -1,0 +1,4 @@
+# Policy for deps-merger (phase 2 check)
+mode: report
+max_update_type: major
+dependabot_commands: false
